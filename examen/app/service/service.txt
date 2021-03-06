@@ -1,0 +1,3 @@
+en service.js vas a manejar todas las comunicaciones entre la bd y las apis, ejemplo:
+
+Api -> servicio -> modal -> bd

@@ -1,0 +1,1 @@
+Aqui puedes dejar todas las coonfiguraciones que necesites(app.js, de bd etc)

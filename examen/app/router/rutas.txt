@@ -1,0 +1,1 @@
+Aqui puedes configurar tus rutas ya sean para el navegador o api rest, te recoomendamos dividirlas

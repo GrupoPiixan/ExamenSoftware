@@ -1,0 +1,2 @@
+Aqui debes dejar todas las vistas,
+ te recomendamos dividirlas por pages y partials, para esto puedes usar ejs, 

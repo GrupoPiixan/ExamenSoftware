@@ -1,0 +1,1 @@
+Aqui soloo se van a manejar querys a bd 

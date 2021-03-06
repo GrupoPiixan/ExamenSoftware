@@ -1,0 +1,1 @@
+Aqui declara todos tus recursos(css, js, boostrap (si lo vas a usar), imagenes etc )
